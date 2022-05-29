@@ -152,11 +152,8 @@
 					<li><a href="Homepage.html">Home</a></li>
 					<li><a href="contact.html">Contact Us</a></li>
 					<li><a href="about.html">About Us</a></li>
-					<li><a href="purchaseApart.html">Purchase an apartment</a></li>
-					<li><a href="rentApart.html">Rent an apartment</a></li>
 					<li><a href="register.html">Sign Up</a></li>
 					<li><a href="login.html">Sign In</a></li>
-					<li><a href="add.html">Add and Remove advertisement</a></li>
 					
 				</ul>
 			</div>
@@ -167,7 +164,7 @@
 				<h2>Contact Us</h2>
 				<div class="border"></div>
 				<ul>
-					<li><a href="#">Dazzale Homes</a></li>
+					
 					<a href="https://maps.google.lk/">
 					<li><i class="map-marker" aria-hidden="true"></i> No.28/2,Palawatta Road,Stanmore Crecent,Colombo 07,Sri Lanka</li><br>
 					</a>
@@ -185,7 +182,7 @@
 		</div>
 		<!-------------------------End of the footer------------------------------------>		
 <center>
-	<h3>Copyright © 2020 Online Apartment Sales system Powered by ABC Technologies ®. All rights reserved.
+	
 	</h3>	
 		</center>
 </body>
